@@ -1,0 +1,2 @@
+# Hospital Finder
+Uma API  com o objetivo de facilitar para os usuários encontrarem hospitais próximos em qualquer região.Além de fornecer a localização dos hospitais, a API também oferece informações detalhadas sobre os serviços disponíveis, especialidades médicas e agendamentos.
