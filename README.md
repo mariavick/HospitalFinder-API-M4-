@@ -20,7 +20,7 @@ O Hospital Finder é uma API de fácil integração em aplicativos móveis e web
 ## Diagrama Conceitual:
 ![Diagrama conceitual da API](https://i.imgur.com/MHJRdRy.jpeg)
 
-## Requisições
+## Exemplos de algumas requisições
 ### Usuários:
 ![Exemplo das requisições dos usuários](https://i.imgur.com/uqtNuxo.jpeg)
 
