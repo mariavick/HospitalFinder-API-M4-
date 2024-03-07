@@ -24,7 +24,6 @@ const getAllHospitals = async (req, res) => {
     }
 }
 
-
 const getHospitalByName = async (req, res) => {
     const { name } = req.body;
     const hospitalFindName = await HospitalModel.findOne({
