@@ -9,10 +9,10 @@ Em situações de emergência ou necessidade de assistência médica, encontrar 
 O Hospital Finder é uma API que localiza os hospitais mais próximos do usuário, facilitando o acesso a serviços de saúde de forma rápida e eficiente.
 
 ## Processo de Elaboração da Solução
-- **Análise do Problema:** Identificação da dificuldade comum das pessoas em localizar hospitais próximos em situações de emergência.
-- **Planejamento:** Definição dos requisitos do usuário e funcionalidades necessárias para uma experiência otimizada.
-- **Desenvolvimento e Implementação:** Utilização de tecnologias como Node.js, Express.js, Sequelize e CORS para o desenvolvimento da API.
-- **Testes e Ajustes:** Realização de testes para garantir a precisão e confiabilidade da API e ajustes com base no feedback recebido.
+- *Análise do Problema:* Identificação da dificuldade comum das pessoas em localizar hospitais próximos em situações de emergência.
+- *Planejamento:* Definição dos requisitos do usuário e funcionalidades necessárias para uma experiência otimizada.
+- *Desenvolvimento e Implementação:* Utilização de tecnologias como Node.js, Express.js, Sequelize e CORS para o desenvolvimento da API.
+- *Testes e Ajustes:* Realização de testes para garantir a precisão e confiabilidade da API e ajustes com base no feedback recebido.
 
 ## Sistema e Utilidade
 O Hospital Finder é uma API de fácil integração em aplicativos móveis e web, fornecendo acesso rápido a cuidados médicos de qualidade em situações de emergência, ajudando a salvar vidas e melhorar a saúde da comunidade.
@@ -43,24 +43,24 @@ O Hospital Finder é uma API de fácil integração em aplicativos móveis e web
 - Ampliação da Utilidade do Aplicativo
 
 ## Conclusão
-Concluindo, o Hospital Finder não apenas simplifica o **acesso** a cuidados médicos de qualidade, mas também desempenha um papel crucial na **melhoria da saúde** e no **bem-estar** da comunidade.
+Concluindo, o Hospital Finder não apenas simplifica o *acesso* a cuidados médicos de qualidade, mas também desempenha um papel crucial na *melhoria da saúde* e no *bem-estar* da comunidade.
 
 ### Como Usar
 
 1. Clone este repositório:
-   ```bash
+   bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   ```
+   
 
 2. Instale as dependências:
-   ```bash
+   bash
    npm install
-   ```
+   
 
 3. Inicie a aplicação:
-   ```bash
+   bash
    npm start
-   ```
+   
 
 4. Acesse a API em ##.
 
@@ -70,21 +70,21 @@ Sinta-se à vontade para contribuir com melhorias ou correções. Basta seguir e
 
 1. Faça um fork do repositório.
 2. Crie uma branch para sua contribuição:
-   ```bash
+   bash
    git checkout -b sua-branch
-   ```
+   
 3. Faça as alterações desejadas.
 4. Faça o commit das suas alterações:
-   ```bash
+   bash
    git commit -m "Descrição das alterações"
-   ```
+   
 5. Faça o push para a sua branch:
-   ```bash
+   bash
    git push origin sua-branch
-   ```
+   
 6. Abra um Pull Request no GitHub.
 
 Agradeço por contribuir para tornar este projeto ainda melhor! 😊
 
 ---
-*Projeto desenvolvido como parte do módulo 4 do curso Programadores do Amanhã.*
+Projeto desenvolvido como parte do módulo 4 do curso Programadores do Amanhã.
