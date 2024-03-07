@@ -17,7 +17,7 @@ O Hospital Finder é uma API que localiza os hospitais mais próximos do usuári
 ## Sistema e Utilidade
 O Hospital Finder é uma API de fácil integração em aplicativos móveis e web, fornecendo acesso rápido a cuidados médicos de qualidade em situações de emergência, ajudando a salvar vidas e melhorar a saúde da comunidade.
 
-## Diagrama Conceitual
+## Diagrama Conceitual:
 ![Diagrama conceitual da API](https://i.imgur.com/rdUKX00.png)
 
 ## Requisições
