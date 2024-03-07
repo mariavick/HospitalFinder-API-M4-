@@ -18,17 +18,17 @@ O Hospital Finder é uma API que localiza os hospitais mais próximos do usuári
 O Hospital Finder é uma API de fácil integração em aplicativos móveis e web, fornecendo acesso rápido a cuidados médicos de qualidade em situações de emergência, ajudando a salvar vidas e melhorar a saúde da comunidade.
 
 ## Diagrama Conceitual:
-![Diagrama conceitual da API](https://i.imgur.com/rdUKX00.png)
+![Diagrama conceitual da API](https://i.imgur.com/MHJRdRy.jpeg)
 
 ## Requisições
 ### Usuários:
-![Exemplo das requisições dos usuários]()
+![Exemplo das requisições dos usuários](https://i.imgur.com/uqtNuxo.jpeg)
 
-### Hospitais:
-![Exemplo das requisições dos hospitais]()
+### Médicos:
+![Exemplo das requisições dos Médicos](https://i.imgur.com/XPOFH6I.jpeg)
 
 ### Convênios:
-![Exemplo das requisições dos convênios]()
+![Exemplo das requisições dos convênios](https://i.imgur.com/hpT1Rdm.jpeg)
 
 ## Benefícios
 ### Para os Usuários
@@ -85,6 +85,8 @@ Sinta-se à vontade para contribuir com melhorias ou correções. Basta seguir e
 6. Abra um Pull Request no GitHub.
 
 Agradeço por contribuir para tornar este projeto ainda melhor! 😊
+
+Link da nossa publicação no Linkedin: https://www.linkedin.com/posts/geovanna-mickaella-076338262_hospital-finder-squad-7-activity-7171565752020262912-0z00?utm_source=share&utm_medium=member_desktop
 
 ---
 Projeto desenvolvido como parte do módulo 4 do curso Programadores do Amanhã.
