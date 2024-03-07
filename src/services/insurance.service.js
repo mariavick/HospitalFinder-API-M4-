@@ -1,4 +1,4 @@
-import { getAllInsurance } from "../controllers/insurance.controller.js";
+import { getAllInsurances } from "../controllers/insurance.controller.js";
 import { InsuranceModel } from "../models/Insurance.models.js"
 
 export class InsuranceService {

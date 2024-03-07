@@ -5,7 +5,7 @@ import {
     getInsuranceByName,
     updateInsurance,
     deleteInsurance
-  } from "../controllers/insurances.controller.js";
+  } from "../controllers/insurance.controller.js";
 
 const insuranceRoute = Router();
 

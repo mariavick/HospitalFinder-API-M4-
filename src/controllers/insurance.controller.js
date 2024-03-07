@@ -1,5 +1,5 @@
 import { InsuranceModel } from "../models/Insurance.models.js";
-import { InsuranceService } from "../services/user.service.js";
+import { InsuranceService } from "../services/insurance.service.js";
 
 const instanceServiceInsurance = new InsuranceService();
 
