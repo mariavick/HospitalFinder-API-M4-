@@ -48,19 +48,19 @@ Concluindo, o Hospital Finder não apenas simplifica o *acesso* a cuidados médi
 ### Como Usar
 
 1. Clone este repositório:
-   bash
+   ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   
+   ```
 
 2. Instale as dependências:
-   bash
+   ```bash
    npm install
-   
+   ```
 
 3. Inicie a aplicação:
-   bash
+   ```bash
    npm start
-   
+   ```
 
 4. Acesse a API em ##.
 
@@ -70,18 +70,18 @@ Sinta-se à vontade para contribuir com melhorias ou correções. Basta seguir e
 
 1. Faça um fork do repositório.
 2. Crie uma branch para sua contribuição:
-   bash
+   ```bash
    git checkout -b sua-branch
-   
+   ```
 3. Faça as alterações desejadas.
 4. Faça o commit das suas alterações:
-   bash
+   ```bash
    git commit -m "Descrição das alterações"
-   
+   ```
 5. Faça o push para a sua branch:
-   bash
+   ```bash
    git push origin sua-branch
-   
+   ```
 6. Abra um Pull Request no GitHub.
 
 Agradeço por contribuir para tornar este projeto ainda melhor! 😊
