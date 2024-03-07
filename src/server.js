@@ -1,5 +1,6 @@
 import express from "express";
 import {userRoute} from './routes/users.routes.js';
+import {insuranceRoute} from './routes/insurance.routes.js';
 import {hospitalRoute} from './routes/hospital.routes.js';
 import cors from "cors";
 
@@ -10,6 +11,7 @@ app.use(express.json());
 app.use(cors());
 app.use(userRoute);
 app.use(hospitalRoute);
+app.use(insuranceRoute);
 
 app.listen(port, async () => {
     console.log(`Servidor tá funcionando port ${port}`)
