@@ -1,4 +1,4 @@
-# 🏥📱💻 Hospital Finder - Facilitando a Integração em Aplicativos Móveis e Web 💻📱🏥
+# 🏥 Hospital Finder - Facilitando a Integração em Aplicativos Móveis e Web 🏥
 
 O Hospital Finder é uma API para integração em aplicativos móveis e web, facilitando a localização de hospitais próximos de forma simples e eficaz.
 
