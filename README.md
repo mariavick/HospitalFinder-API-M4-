@@ -45,7 +45,7 @@ O Hospital Finder é uma API de fácil integração em aplicativos móveis e web
 ## Conclusão
 Concluindo, o Hospital Finder não apenas simplifica o *acesso* a cuidados médicos de qualidade, mas também desempenha um papel crucial na *melhoria da saúde* e no *bem-estar* da comunidade.
 
-### Como Usar
+### Como Usar?
 
 1. Clone este repositório:
    ```bash
