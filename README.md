@@ -49,7 +49,7 @@ Concluindo, o Hospital Finder não apenas simplifica o *acesso* a cuidados médi
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/mariavick/HospitalFinder-API-M4-.git
    ```
 
 2. Instale as dependências:
