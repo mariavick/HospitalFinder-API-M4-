@@ -89,4 +89,6 @@ Agradeço por contribuir para tornar este projeto ainda melhor! 😊
 Link da nossa publicação no Linkedin: https://www.linkedin.com/posts/geovanna-mickaella-076338262_hospital-finder-squad-7-activity-7171565752020262912-0z00?utm_source=share&utm_medium=member_desktop
 
 ---
-Projeto desenvolvido como parte do módulo 4 do curso Programadores do Amanhã.
+*Projeto desenvolvido como parte do módulo 4 do curso Programadores do Amanhã.*
+
+
