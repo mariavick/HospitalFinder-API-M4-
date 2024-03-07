@@ -11,4 +11,5 @@ app.use(userRoute);
 
 app.listen(port, async () => {
     console.log(`Servidor tá funcionando port ${port}`)
+    
 });
